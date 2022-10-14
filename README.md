@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/85ur87grnjp](https://resume.creddle.io/resume/85ur87grnjp)
+- 📄 Know about my experiences [Resume](https://resume.creddle.io/resume/85ur87grnjp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
