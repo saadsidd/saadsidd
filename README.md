@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Saad Siddiq 👋</h1>
+<h1 align="center">Hi, I'm Saad 👋</h1>
 <h3 align="center">A passionate front-end developer from Calgary, AB</h3>
 
-- 🔭 I’m currently working on a 3D browser game called [Roll With It](github.com/saadsidd/rwi). [Play it here!](https://www.saadsiddiq.com/rwi/)
+- 🔭 I’m currently working on a 3D browser game called [Roll With It](github.com/saadsidd/rwi). [▶️ Play it here! ▶️](https://www.saadsiddiq.com/rwi/)
 
 - 🌱 I’m currently learning the **Three.js** library
 
-- 📄 Know about my experiences from [my resume](https://resume.creddle.io/resume/85ur87grnjp)
+- 📄 Know about [my experiences](https://resume.creddle.io/resume/85ur87grnjp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
