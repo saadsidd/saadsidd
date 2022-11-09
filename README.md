@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saad 👋</h1>
-<h3 align="center">A passionate front-end developer from Calgary, AB</h3>
+<h3 align="center">A passionate full-stack web developer from Calgary, AB</h3>
 
 - 🔭 I’m currently working on [Roll With It](https://github.com/saadsidd/rwi) a 3D browser game. [▶️ Play it here!](https://www.saadsiddiq.com/rwi/)
 
