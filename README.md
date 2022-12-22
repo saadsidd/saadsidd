@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Saad 👋</h1>
 <h3 align="center">A passionate full-stack web developer from Calgary, AB</h3>
 
-- 🔭 I’m currently working on [Roll With It](https://github.com/saadsidd/rwi) a 3D browser game. [▶️ Play it here!](https://www.saadsiddiq.com/rwi/)
+- 🔭 I recently made [Roll With It](https://github.com/saadsidd/rwi) a 3D browser game. [▶️ Play it here!](https://www.saadsiddiq.com/rwi/)
 
-- 🌱 I’m currently learning the **Three.js** library while improving my OOP skills
+- 🌱 I’m currently learning the **Three.js** library while improving my OOP skills, as well as working through the Advent of Code challenges!
 
 - 📄 Know about [my experiences](https://resume.creddle.io/resume/85ur87grnjp)
 
