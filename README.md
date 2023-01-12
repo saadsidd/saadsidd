@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Saad 👋</h1>
 <h3 align="center">A passionate full-stack web developer from Calgary, AB</h3>
 
-- 🔭 I recently made [Roll With It](https://github.com/saadsidd/rwi) a 3D browser game. [▶️ Play it here!](https://www.saadsiddiq.com/rwi/)
+- 🔭 I recently created a Game Boy Advance SP color customizer for the web using Blender and Three.js [Try it out here!](https://www.saad.gg/gba-sp)
 
-- 🌱 I’m currently learning the **Three.js** library while improving my OOP skills, as well as working through the Advent of Code challenges!
+- 🌱 I’m currently learning the **Three.js** library while improving my OOP skills
 
 - 📄 Know about [my experiences](https://resume.creddle.io/resume/85ur87grnjp)
 
